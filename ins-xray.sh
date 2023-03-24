@@ -127,7 +127,6 @@ install_ssl(){
 }
 
 # install nginx
-apt install -y nginx
 cd
 rm -fr /etc/nginx/sites-enabled/default
 rm -fr /etc/nginx/sites-available/default

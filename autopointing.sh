@@ -51,6 +51,6 @@ yellow() { echo -e "\\033[33;1m${*}\\033[0m"; }
 yellow "Domain added.."
 sleep 3
 domain=$(cat /root/domain)
-cp -r /root/domain /etc/xray/domain
+#cp -r /root/domain /etc/xray/domain
 echo -e "jangan lupa Gen-Cert di menu"
 cd

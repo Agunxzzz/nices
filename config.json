@@ -58,7 +58,7 @@
     "web_use_output_dir": false,
     "port": 8080,
     "host": "172.3.36.147",
-    "keep_alive": false,
+    "keep_alive": true,
     "allowed_origins": null,
-    "keep_sessions": false
+    "keep_sessions": true
 }

@@ -56,8 +56,8 @@
     "log_format": null,
     "redownload": false,
     "web_use_output_dir": false,
-    "port": 8800,
-    "host": "localhost",
+    "port": 8080,
+    "host": "172.3.36.147",
     "keep_alive": false,
     "allowed_origins": null,
     "keep_sessions": false

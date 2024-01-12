@@ -57,7 +57,7 @@
     "redownload": false,
     "web_use_output_dir": false,
     "port": 8080,
-    "host": "172.17.149.46",
+    "host": "172.17.205.2",
     "keep_alive": true,
     "allowed_origins": null,
     "keep_sessions": true
